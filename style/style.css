@@ -1,8 +1,12 @@
-body{
+body {
     background-color: gray;
 }
 
-h1{
-border: solid 3px black;
+h1 {
+    border: solid 3px black;
+}
+
+h2 {
+    background-color: lightgrey;
 }
 
